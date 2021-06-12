@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "PAGE TITLE"
 permalink: /test/
 ---
